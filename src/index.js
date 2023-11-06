@@ -14,6 +14,7 @@ root.render(
     <ConfigProvider theme={{ token: { colorPrimary: "blue" } }}>
       {/* <App1 /> */}
       {/* <Example /> */}
+
       <BrowserRouter>
         <App1 />
       </BrowserRouter>

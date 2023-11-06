@@ -6,7 +6,7 @@ function ApplicationCenter() {
   return (
     <div>
       <p style={{ marginLeft: "30px", fontSize: "50px" }}>
-        <CommentOutlined /> <AiFillHome />
+        <CommentOutlined />
       </p>
     </div>
   );
