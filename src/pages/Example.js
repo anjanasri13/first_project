@@ -202,7 +202,7 @@ function Example1() {
           bordered
           items={items}
           className="two"
-          labelStyle={{ color: "tomato", fontFamily: "cursive" }}
+          labelStyle={{ color: "tomato", fontFamily: "bold" }}
         />
         <Descriptions
           className="two"
@@ -216,7 +216,7 @@ function Example1() {
             xxl: 4,
           }}
           items={items1}
-          labelStyle={{ color: "tomato", fontFamily: "cursive" }}
+          labelStyle={{ color: "tomato", fontFamily: "bold" }}
         />
       </div>
     </>
