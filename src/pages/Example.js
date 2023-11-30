@@ -190,7 +190,7 @@ function Example1() {
         <Button
           type="primary"
           onClick={info}
-          style={{ marginLeft: "1500px", backgroundColor: "#e6c63a" }}
+          style={{ marginLeft: "950px",backgroundColor: "#e6c63a" }}
         >
           Login
         </Button>
